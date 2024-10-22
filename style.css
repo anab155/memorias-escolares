@@ -65,10 +65,9 @@ p {
 }
 
 footer {
-    background-color: #333; /* Cor do rodapé */
+    background-color: #f4a6c0; /* Rosa claro para o rodapé */
     color: white;
     text-align: center;
     padding: 10px;
     margin-top: 20px;
 }
-
